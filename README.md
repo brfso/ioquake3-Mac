@@ -5,7 +5,7 @@ Tip to run ioquake3 on Mac, versions like Sierra, Mojave and others.
 If your ioquake3 doesn't launch, follow the steps bellow to solve it
 
 ## Solutions
-1, Verify if exist file `pak0.pk3` in folder `baseq3`, i.e: `/Applications/ioquake3/baseq3`. in folder `baseq3` 
+1. Verify if exist file `pak0.pk3` in folder `baseq3`, i.e: `/Applications/ioquake3/baseq3`. in folder `baseq3` 
 2. If file exist, it's possible this `ioquake3` are in **quarentine** from **App Translocation Security** Resource
 
 ## How can I check if `ioquake3` are in quarentine?
